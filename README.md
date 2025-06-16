@@ -82,6 +82,8 @@ Backend (Render):
 
 <img src="https://github.com/user-attachments/assets/41268459-dab0-4286-b46f-fa9b67c85bb5" alt="Dashboard Screenshot" width="700"/>
 
+## 📜 License: MIT
+
 ## 📂 Related Repositories
 
 🔗https://github.com/Nithya2900/System-dashboard-frontend.git
